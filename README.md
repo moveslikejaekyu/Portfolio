@@ -1,15 +1,12 @@
 
    
-   # My portfolio
-### Applied Data Sciences KB-74
-### Student Name / Number : Jae Kyu Lee / 18132782
-# Portfolio
-Republic Of Korea
-My portfolio 
-Applied Data Sciences KB-74
-Jae Kyu Lee
-Student Number 18132782
-E-mail address dlworb1994@naver.com
+
+### Portfolio
+Course : Applied Data Sciences KB-74
+Name : Jae Kyu Lee
+Birthplace : Republic Of Korea
+Student Number : 18132782
+E-mail address : dlworb1994@naver.com
 
 1. ### Introduction
 
@@ -58,11 +55,11 @@ Classifier -
 Here I attached the proof of the accomplish of all the courses that we had to take during this course to 
 prepare ourselfs for the project, and get tools for the developing of the Python and Machine Learning tasks.
 
-![Data Camp XP](Data_camp_XP.png)
+![Datacamp_Kyu](Datacamp_Kyu.png)
 
-![Data Camp courses_1](cursos_1.png)
+![Datacamp_Kyu2](Datacamp2_Kyu.png)
 
-![Data Camp courses_1](cursos_2.png)
+![Datacamp_Kyu3](Datacamp3_Kyu.png)
                 
 
 
@@ -77,9 +74,9 @@ prepare ourselfs for the project, and get tools for the developing of the Python
  5. ### Coursera
  And also here I attached the proof of the finished chapters on Coursera platform.
  
- ![Coursera](Coursera_1.png)
+ ![Coursera1_Kyu](Coursera1_Kyu.png)
  
-  ![Coursera](Coursera_2.png)
+  ![Coursera2_Kyu](Coursera2_Kyu.png)
 
 
 6. ### Python Notebooks about the project as an evidence of my abilities

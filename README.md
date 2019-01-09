@@ -30,13 +30,13 @@ Below is a compilation of the work I have done during this course.###
 
 2. ### Jargon
  
-FREQAUENT & IMPORTANT WORDS WHICH ARE USED IN Cybersecurity'S WORK.
+Frequent & Important words which are used in Cybersecurity'S Work.
 
  * _Anonymous_.- a decentralized international hacktivist group that is widely known for its various DDoS cyber attacks against several governments, government institutions and government agencies, corporations, and the Church of Scientology.
 
  * _API_.- Abbreviation for application programming interface: a way ofcommunicating with a particular computer program or internet service.
  
- * _Classifier_. - THE CODE WHICH IS CLASSIFYING THNGS WITH STANDARDS
+ * _Classifier_. - The Code which is classifying things with standards
 
  * _Cyberattack_.- An attempt by hackers to damage or destroy a computer network or system.
  
@@ -51,8 +51,8 @@ FREQAUENT & IMPORTANT WORDS WHICH ARE USED IN Cybersecurity'S WORK.
  * _Social media_.- Refers to websites and computer programs that make communication possible with the use of computers or mobile phones.
 
 3. ### Data Camp assignments
-Here I attached the proof of the accomplish of all the courses that we had to take during this course to 
-prepare ourselfs for the project, and get tools for the developing of the Python and Machine Learning tasks.
+Here is the proof that i finished all the courses what i had to take during this semester for 
+preparing ourselfs & project. Also it was for studying developing of the Python and Machine Learning tasks.
 
 ![Datacamp_Kyu](Datacamp_Kyu.png)
 
@@ -63,12 +63,13 @@ prepare ourselfs for the project, and get tools for the developing of the Python
 
 
 4. ### All Data Camp Courses
+Here is the courses that i accomplished in Datacamp not only what i had to take but also what i studied additionally.
 
-     * 1.- [INTRODUCTION TO Python Course](StatementofAccomplishment(9).pdf)
+     * 1.- [Introduction to Python Course](StatementofAccomplishment(9).pdf)
  
      * 2.- [Intermediate Python for Data Science Course](StatementofAccomplishment.pdf)
      
-     * 3.- [INTRODUCTION TO DATAVISUALIZATION WITH Python Course](StatementofAccomplishment(8).pdf)
+     * 3.- [Introduction to Data Visualization With Python Course](StatementofAccomplishment(8).pdf)
      
      * 4.- [pandas Foundations Course](StatementofAccomplishment(6).pdf)
      
@@ -83,7 +84,7 @@ prepare ourselfs for the project, and get tools for the developing of the Python
      * 9.- [Supervised Learning with scikit-learn Course](StatementofAccomplishment(5).pdf)
      
  5. ### Coursera
- And also here I attached the proof of the finished chapters on Coursera platform.
+ Here is the proof that i finished Machine-Learning courses on Coursera. For me 
  
   ![Coursera1_Kyu](Coursera1_Kyu.png)
  
@@ -155,10 +156,10 @@ and that programme clean the data and then export the data to a csv so then we c
     ![Best_SMV](Best_SMV.png) 
     
 8. ### Presentations
+    Here are presentations that i did in this semester. My group did weekly presentation with one person.
     
     
      * 1.- [My first Presentation(Week5)](cybersecurity_week5.pptx)
-     
      
      * 2.- [My Second Presentation(Week11)](cybersecurity_week11.pptx)
      

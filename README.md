@@ -30,14 +30,13 @@ Below is a compilation of the work I have done during this course.###
 
 2. ### Jargon
  
-Used jargon for Cybersecurity is listed below.
+FREQAUENT & IMPORTANT WORDS WHICH ARE USED IN Cybersecurity'S WORK.
 
  * _Anonymous_.- a decentralized international hacktivist group that is widely known for its various DDoS cyber attacks against several governments, government institutions and government agencies, corporations, and the Church of Scientology.
 
  * _API_.- Abbreviation for application programming interface: a way ofcommunicating with a particular computer program or internet service.
  
- 
-Classifier - 
+ * _Classifier_. - THE CODE WHICH IS CLASSIFYING THNGS WITH STANDARDS
 
  * _Cyberattack_.- An attempt by hackers to damage or destroy a computer network or system.
  
@@ -166,14 +165,19 @@ and that programme clean the data and then export the data to a csv so then we c
 
 7. ### References
 
-    * 1.- Raúl E. López Briega. (2017). Procesamiento de Lenguaje Natural con Python. 25/10/2018, de Blog Sitio web: https://relopezbriega.github.io/blog/2017/09/23/procesamiento-del-lenguaje-natural-con-python/ 
+    * 1.- EUNG YONG PARK. (2011). JUMP TO PYTHON, EASYSPUBLISHING
     
-    * 2.- tthustla. (2018). Another Twitter Sentiment Analysis with Python - Part 1. 26/10/2018, de GitHub Sitio web: https://github.com/tthustla/twitter_sentiment_analysis_part1/blob/master/Capstone_part2.ipynb
+    * 2.- WES MCKINNY. (2013). PYTHON FOR DATA ANALYSIS. O'REILLY
     
-    * 3.- Alec Go, Richa Bhayani y Lei Huang (2009). Twitter Sentiment Classification using Distant Supervision,*academia.edu.9*,1-6.
+    * 3.- Raúl E. López Briega. (2017). Procesamiento de Lenguaje Natural con Python. 25/10/2018, de Blog Sitio web: https://relopezbriega.github.io/blog/2017/09/23/procesamiento-del-lenguaje-natural-con-python/ 
     
-    * 4.- Cambridge University Press. (2018). Cambridge Dictionary. 09/11/2018, de Cambridge University Press Sitio web: https://dictionary.cambridge.org/dictionary/english/
+    * 4.- tthustla. (2018). Another Twitter Sentiment Analysis with Python - Part 1. 26/10/2018, de GitHub Sitio web: https://github.com/tthustla/twitter_sentiment_analysis_part1/blob/master/Capstone_part2.ipynb
     
+    * 5.- Alec Go, Richa Bhayani y Lei Huang (2009). Twitter Sentiment Classification using Distant Supervision,*academia.edu.9*,1-6.
+    
+    * 6.- Cambridge University Press. (2018). Cambridge Dictionary. 09/11/2018, de Cambridge University Press Sitio web: https://dictionary.cambridge.org/dictionary/english/
+    
+
 
 
 

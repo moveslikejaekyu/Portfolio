@@ -65,23 +65,23 @@ prepare ourselfs for the project, and get tools for the developing of the Python
 
 4. ### All Data Camp Courses
 
-     * 1.- [Deep Learning in Python](Statement of Accomplishment.pdf)
+     * 1.- [Deep Learning in Python](StatementofAccomplishment.pdf)
  
-     * 2.- [Linear Classifiers in Python](Statement of Accomplishment (1).pdf)
+     * 2.- [Linear Classifiers in Python](StatementofAccomplishment(9).pdf)
      
-     * 3.- [Importing data in Python (Part 2) ](Statement of Accomplishment (2).pdf)
+     * 3.- [Importing data in Python (Part 2) ](StatementofAccomplishment(2).pdf)
      
-     * 4.- [Importing data in Python (Part 3) ](Statement of Accomplishment (3).pdf)
+     * 4.- [Importing data in Python (Part 3) ](StatementofAccomplishment(3).pdf)
      
-     * 5.- [Importing data in Python (Part 4) ](Statement of Accomplishment (10).pdf)
+     * 5.- [Importing data in Python (Part 4) ](StatementofAccomplishment(4).pdf)
      
-     * 6.- [Importing data in Python (Part 5) ](Statement of Accomplishment (5).pdf)
+     * 6.- [Importing data in Python (Part 5) ](StatementofAccomplishment(5).pdf)
      
-     * 7.- [Importing data in Python (Part 6) ](Statement of Accomplishment (6).pdf)
+     * 7.- [Importing data in Python (Part 6) ](StatementofAccomplishment(6).pdf)
      
-     * 8.- [Importing data in Python (Part 7) ](Statement of Accomplishment (11).pdf)
+     * 8.- [Importing data in Python (Part 7) ](StatementofAccomplishment(7).pdf)
      
-     * 9.- [Importing data in Python (Part 8) ](Statement of Accomplishment (12).pdf)
+     * 9.- [Importing data in Python (Part 8) ](StatementofAccomplishment(8).pdf)
      
  5. ### Coursera
  And also here I attached the proof of the finished chapters on Coursera platform.
@@ -158,10 +158,10 @@ and that programme clean the data and then export the data to a csv so then we c
 8. ### Presentations
     
     
-     * 1.- [My first Presentation(180900)](cybersecurity_week5.pptx)
+     * 1.- [My first Presentation(Week5)](cybersecurity_week5.pptx)
      
      
-     * 2.- [My Second Presentation(181100)](cybersecurity_week11..pptx)
+     * 2.- [My Second Presentation(Week11)](cybersecurity_week11.pptx)
      
 
 7. ### References

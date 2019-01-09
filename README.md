@@ -1,12 +1,12 @@
 
    
 
-### Portfolio
-Course : Applied Data Sciences KB-74
-Name : Jae Kyu Lee
-Birthplace : Republic Of Korea
-Student Number : 18132782
-E-mail address : dlworb1994@naver.com
+  # Portfolio
+###Course : Applied Data Sciences KB-74
+###Name : Jae Kyu Lee
+###Birthplace : Republic Of Korea
+###Student Number : 18132782
+###E-mail address : dlworb1994@naver.com
 
 1. ### Introduction
 
@@ -63,18 +63,30 @@ prepare ourselfs for the project, and get tools for the developing of the Python
                 
 
 
-4. ### Another Data Camp Courses
+4. ### All Data Camp Courses
 
-     * 1.- [Deep Learning in Python](Statement_of_Accomplishment_Deep_Learning_in_Python.pdf)
+     * 1.- [Deep Learning in Python](Statement of Accomplishment.pdf)
  
-     * 2.- [Linear Classifiers in Python](Statement_of_Accomplishment_Linear_Classifiers_in_Python_Course.pdf)
+     * 2.- [Linear Classifiers in Python](Statement of Accomplishment (1).pdf)
      
-     * 3.- [Importing data in Python (Part 2) ](Statement_of_Accomplishment_importing_data_in_python_part_2.pdf)
+     * 3.- [Importing data in Python (Part 2) ](Statement of Accomplishment (2).pdf)
+     
+     * 4.- [Importing data in Python (Part 2) ](Statement of Accomplishment (3).pdf)
+     
+     * 5.- [Importing data in Python (Part 2) ](Statement of Accomplishment (10).pdf)
+     
+     * 6.- [Importing data in Python (Part 2) ](Statement of Accomplishment (5).pdf)
+     
+     * 7.- [Importing data in Python (Part 2) ](Statement of Accomplishment (6).pdf)
+     
+     * 8.- [Importing data in Python (Part 2) ](Statement of Accomplishment (11).pdf)
+     
+     * 9.- [Importing data in Python (Part 2) ](Statement of Accomplishment (12).pdf)
      
  5. ### Coursera
  And also here I attached the proof of the finished chapters on Coursera platform.
  
- ![Coursera1_Kyu](Coursera1_Kyu.png)
+  ![Coursera1_Kyu](Coursera1_Kyu.png)
  
   ![Coursera2_Kyu](Coursera2_Kyu.png)
 
@@ -146,10 +158,10 @@ and that programme clean the data and then export the data to a csv so then we c
 8. ### Presentations
     
     
-     * 1.- [My first Presentation](cybersecurity_week3.pdf)
+     * 1.- [My first Presentation](cybersecurity_week5.pdf)
      
      
-     * 2.- [My Second Presentation](cybersecurity_week9.pdf)
+     * 2.- [My Second Presentation](cybersecurity_week11.pdf)
      
 
 7. ### References

@@ -2,11 +2,11 @@
    
 
   # Portfolio
-###Course : Applied Data Sciences KB-74
-###Name : Jae Kyu Lee
-###Birthplace : Republic Of Korea
-###Student Number : 18132782
-###E-mail address : dlworb1994@naver.com
+### Course : Applied Data Sciences KB-74
+### Name : Jae Kyu Lee
+### Birthplace : Republic Of Korea
+### Student Number : 18132782
+### E-mail address : dlworb1994@naver.com
 
 1. ### Introduction
 
@@ -158,10 +158,10 @@ and that programme clean the data and then export the data to a csv so then we c
 8. ### Presentations
     
     
-     * 1.- [My first Presentation](cybersecurity_week5.pdf)
+     * 1.- [My first Presentation](cybersecurity_week5.pptx)
      
      
-     * 2.- [My Second Presentation](cybersecurity_week11.pdf)
+     * 2.- [My Second Presentation](cybersecurity_week11..pptx)
      
 
 7. ### References

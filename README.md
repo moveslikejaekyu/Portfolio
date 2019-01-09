@@ -64,8 +64,8 @@ preparing ourselfs & project. Also it was for studying developing of the Python 
 
 4. ### All Data Camp Courses
 Here is the courses that i accomplished in Datacamp not only what i had to take but also what i studied additionally.
-
-     * 1.- [Introduction to Python Course](StatementofAccomplishment(9).pdf)
+    
+   * 1.- [[Introduction to Python Course](StatementofAccomplishment(9).pdf)
  
      * 2.- [Intermediate Python for Data Science Course](StatementofAccomplishment.pdf)
      
@@ -82,6 +82,7 @@ Here is the courses that i accomplished in Datacamp not only what i had to take 
      * 8.- [Statistical Thinking in Python (Part 1)](StatementofAccomplishment(4).pdf)
      
      * 9.- [Supervised Learning with scikit-learn Course](StatementofAccomplishment(5).pdf)
+     
      
  5. ### Coursera
  Here is the proof that i finished Machine-Learning courses on Coursera. For me 

@@ -65,7 +65,7 @@ preparing ourselfs & project. Also it was for studying developing of the Python 
 4. ### All Data Camp Courses
 Here is the courses that i accomplished in Datacamp not only what i had to take but also what i studied additionally.
     
-   * 1.- [[Introduction to Python Course](StatementofAccomplishment(9).pdf)
+   * 1.- [Introduction to Python Course](StatementofAccomplishment(9).pdf)
  
      * 2.- [Intermediate Python for Data Science Course](StatementofAccomplishment.pdf)
      
@@ -167,9 +167,9 @@ and that programme clean the data and then export the data to a csv so then we c
 
 7. ### References
 
-    * 1.- EUNG YONG PARK. (2011). JUMP TO PYTHON, EASYSPUBLISHING
+    * 1.- Eung Yong Park. (2011). Jump to Python, Easypublishing
     
-    * 2.- WES MCKINNY. (2013). PYTHON FOR DATA ANALYSIS. O'REILLY
+    * 2.- Wes Mckinny. (2013). Python for data analysis. O'Reilly
     
     * 3.- Raúl E. López Briega. (2017). Procesamiento de Lenguaje Natural con Python. 25/10/2018, de Blog Sitio web: https://relopezbriega.github.io/blog/2017/09/23/procesamiento-del-lenguaje-natural-con-python/ 
     

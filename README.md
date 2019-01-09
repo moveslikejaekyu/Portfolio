@@ -65,23 +65,23 @@ prepare ourselfs for the project, and get tools for the developing of the Python
 
 4. ### All Data Camp Courses
 
-     * 1.- [Deep Learning in Python](StatementofAccomplishment.pdf)
+     * 1.- [INTRODUCTION TO Python Course](StatementofAccomplishment(9).pdf)
  
-     * 2.- [Linear Classifiers in Python](StatementofAccomplishment(9).pdf)
+     * 2.- [Intermediate Python for Data Science Course](StatementofAccomplishment.pdf)
      
-     * 3.- [Importing data in Python (Part 2) ](StatementofAccomplishment(2).pdf)
+     * 3.- [INTRODUCTION TO DATAVISUALIZATION WITH Python Course](StatementofAccomplishment(8).pdf)
      
-     * 4.- [Importing data in Python (Part 3) ](StatementofAccomplishment(3).pdf)
+     * 4.- [pandas Foundations Course](StatementofAccomplishment(6).pdf)
      
-     * 5.- [Importing data in Python (Part 4) ](StatementofAccomplishment(4).pdf)
+     * 5.- [Python Data Science Toolbox (Part 2)](StatementofAccomplishment(2).pdf)
      
-     * 6.- [Importing data in Python (Part 5) ](StatementofAccomplishment(5).pdf)
+     * 6.- [Importing data in Python (Part 1)](StatementofAccomplishment(7).pdf)
      
-     * 7.- [Importing data in Python (Part 6) ](StatementofAccomplishment(6).pdf)
+     * 7.- [Cleaning Data in Python Course](StatementofAccomplishment(3).pdf)
      
-     * 8.- [Importing data in Python (Part 7) ](StatementofAccomplishment(7).pdf)
+     * 8.- [Statistical Thinking in Python (Part 1)](StatementofAccomplishment(4).pdf)
      
-     * 9.- [Importing data in Python (Part 8) ](StatementofAccomplishment(8).pdf)
+     * 9.- [Supervised Learning with scikit-learn Course](StatementofAccomplishment(5).pdf)
      
  5. ### Coursera
  And also here I attached the proof of the finished chapters on Coursera platform.

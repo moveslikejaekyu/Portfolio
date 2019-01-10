@@ -26,7 +26,8 @@ I chose this project because i have wanted to analyze SNS data with Machine-lear
 In my project me and my project mates usually use the knowledges provided by the course. For example we use python libraries Pandas and Numpy, making own fuctions etc. Because i studied python and machine-learning hard with Datacamp and Coursera, i can do my project well.
 But i also use the knowledges studied by myself like library tweepy, making twitter developer ID and how to use it and sentiment analyis etc. My project is related with twitter so i have to study a lot for using and dealing with twitter to get tweet data. Also i have to study a lot with sentiment analysis with references and video clips in youtube.
 
-Reading our ### [Research Paper](research_paper.pdf) will help understand how our project is going on.
+Reading our Research Paper will help understand how our project is going on.
+### [Research Paper](research_paper.pdf) </br>
 
 </br>
 

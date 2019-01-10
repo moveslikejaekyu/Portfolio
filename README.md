@@ -92,21 +92,59 @@ Here is the courses that i accomplished in Datacamp not only what i had to take 
   ![Coursera2_Kyu](Coursera2_Kyu.png)
 
 
-6. ### Python Notebooks about the project as an evidence of my abilities
+6. ### Python Notebooks
+In this part i made some my own programmes and codes for using our project. It was for counting words like hactivist's keywords in tweets, hashtags which they use and username they advert. 
 
-In this section I put some of my personal programmes that we used for our project to extract the data from an excel file 
-to a list and then extract the tweets of the users, in that Python Notebook that was my collaboration and in the other one I made it all 
-and that programme clean the data and then export the data to a csv so then we can label the tweets and make it ready to use it in the classifier.In the third one is the part of making the classifiers and compare it to know which one is the best for our problem and also with which values we can reach the best predictions.
+First, this code which is kind of prototype inspires me to make codes for word counting. I just tried to make basic code first and then want to understand what should i make addtionally.
+
+   ![inspiration](inspiration.png) 
    
-   * 1.- [Extract tweets](MAIN-Excell.pdf)
-     
-   * 2.- [Cleaning Data](Cleaning_Data_Programme.pdf)    
+Before counting words, i have to extract pure sentences from twitter data. 
+In this step, i made code for extracting tweets from twitter with using userID list(hacktivists, excel format) and my twitter developer ID for accessing twitter. I access twitter with developer ID and extract user's tweets who are written in my userID list. Also i extract number of retweets and likes, date of tweet and length of tweet. They are supposed to be used later, but finally we didnt use that datas. 
+
+   ![basicsetforcode](basicsetforcode.png)
    
-   * 3.- [Naive Bayes and SMV comparation](Naive_Bayes_SMV_comparation_Classifiers.pdf)  
+   This is the basic settings for using code.
    
- 1.-Counting keyword, hashtags and usernames
-2.-Remove unnecessary words in tweets
-3.-divide whole tweets data with sentences
+   ![extractexcel](extractexcel.png)  
+   
+   This is the code for extracting tweets from twitter with using userID list(hacktivists, excel format). I have 70 hactivist's tweeter ID. It was offered by our supervisor.
+   
+   ![authenticationfunction](authenticationfunction.png) 
+   ![tweetmining](tweetmining.png) 
+   
+   In this part, i made code for mining tweets from twitter. I did it with my project mate Jorge.
+   
+   ![result_tweets](result_tweets.png) 
+   And it is the result of tweets. There are tweets, name of user, length of sentence, ID, date of tweet, source, number of likes and retweets. I supposed to use all these things to approaching our project's goal in that time, but finally i only used tweets.
+   
+
+Next step, i have to refine extracted tweets. Because if i use word counting code with not refined tweets, the result will be full with words like 'a','the','is' kind of these words that we usually use in normal sentence(not hactivst's sentence). This result will hinder our goal to extract hacktivist's word. So i made 'removig punctuation' code for refining kind of these words. 
+
+   ![removingpunctuation](removingpunctuation.png) 
+   
+   In this code, stopwords.words('english') means words like 'a','the','is' etc, stopwords.words('spanish') means words like 'a','the','is' etc with spanish. And single_words is a my own list of words not contained in stopwords but should be erased from extracted tweets. I just made it because i worried that i can miss some words except stopwords. After running counter code, i add some words to single_words if i notice unimportant words in the result of counter.
+   
+   
+After using removing punctuation code, i can get tweet sentences consist of words which are excluded unimportant words for getting hacktivist's words. 
+
+   ![result_removing](result_removing.png)
+   
+Finally i created code that creates a list of the most frequently used words with pandas series. This result is very important in my project because i use this words and numbers again until end of the project to figure out graphs, compare numbers of one word between users etc. It is no exaggeration to say that creating this code accounts for half of the project.
+  
+   ![counter](counter.png) 
+   
+Additionally i created code that creates a list of the most frequently used hashtags which they use and usernmae they advert. Because of using removing punctuation, i can't figure out numbers of hashtags and usernames. Because the punction elimates special characters like @,#,$,& etc. So i have to add new sentences from counter code and change some sentences.
+
+   ![hashtag](hashtag.png) 
+   ![username](username.png)  
+
+
+   
+1.-Counting keyword, hashtags and usernames ok
+2.-Remove unnecessary words in tweets ok
+3.-divide whole tweets data with sentences ok
+
 4.-review and label tweets with our hand
 5.-make code for sentiment analysis
 
@@ -165,7 +203,7 @@ and that programme clean the data and then export the data to a csv so then we c
      * 2.- [My Second Presentation(Week11)](cybersecurity_week11.pptx)
      
 
-7. ### References
+9. ### References
 
     * 1.- Eung Yong Park. (2011). Jump to Python, Easypublishing
     

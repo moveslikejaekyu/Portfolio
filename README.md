@@ -3,10 +3,14 @@
 
   # Portfolio
 ### Course : Applied Data Sciences KB-74
+### Project name : Cyber Security
 ### Name : Jae Kyu Lee
 ### Birthplace : Republic Of Korea
 ### Student Number : 18132782
 ### E-mail address : dlworb1994@naver.com
+###
+### Project's Objecitive 
+###  -> Collecting twitter feeds and making classifier & Sentiment analysis Specified for CyberSecurity
 
 1. ### Introduction
 

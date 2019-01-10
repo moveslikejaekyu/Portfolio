@@ -209,12 +209,12 @@ In my project, me and my project mates have to make classifiers for distinguish 
      
 Unfortunately our groups objective was changed in November because of some problems to get knoledges and supervisor's comment. So there are not much code that we used for this group. But there are many codes that we used before changing our objecitives so i just put this codes at the end of my portfolio for proving that i did hard work on my project.
 
-   *     [part1](part1.png) </br>
-         [part2](part2.png) </br>
-         [part3](part3.png) </br>
-         [part4](part4.png) </br>
-         [part5](part5.png) </br>
-         [part6](part6.png) </br>
+  [part1](part1.png)</br>
+  [part2](part2.png)</br>
+  [part3](part3.png)</br>
+  [part4](part4.png)</br>
+  [part5](part5.png)</br>
+  [part6](part6.png)</br>
          
    </br>
    

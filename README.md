@@ -163,50 +163,24 @@ Additionally i created code that creates a list of the most frequently used hash
 5.-make code for sentiment analysis
 
  
-8. ### Some visual content
-   #### All the fragments of code that are bellow in this section, they are in the python codes that are shown above.
+8. ### Other works 
+  
+In my project, me and my project mates have to make classifiers for distinguish whether user is hactivist or not. First of this step, we have to make our own hand-written sentiment classifer with 16000 tweet sentences. Because we can't get precise hactivist words dictionary so we have to make our own hactivist words dictionary with standards for our project. We labeled all tweet sentences whether it is a hactivist's sentence or not. If it is a hactivist's sentence or contained keywords from our counter code, we labeled 1. If it is a normal sentence or not english sentence, we labeled 0.
+
+   ![criteria_sentiment](criteria_sentiment.png) 
    
-   Those are also some graphics that I did in our code to see the most frequent words in the Tweets, they are the first ones because still missing to take away the common english words like 'the', 'a', and that words. But here its a good aproach of the handle of the tools for visualating the data.
+   These are the examples that we labeled.
    
-   In this part I am showing the extracts of the tweets that we did at the begining of the project.
+   ![example_sentiment](.png) 
    
-   ![Extraction](Extraction.png) 
+   Because there are words like hacker, hacking contained in sentence, we labled 1. And we labeld 0 for below sentences because those are normal sentences or non english sentences.
    
-   Here is the code used to clean the data from those characters that are unimportant for os.
+   ![sentiment](sentiment.png) 
    
-   ![Cleaning](Cleaning.png) 
+   This is just few part of our sentiment classifier. I labeled 2000 tweets from 11 users.
+   Finally we completed labeling all the tweets, and use this sentiment classifier to next step.
    
-   ![Cleaning_2](Cleaning_2.png) 
    
-   
-   Those are some graphics about the frecuency of words from hacktivist users and non-hacktivist users.
-   
- 
-   ![Graphic1](Graphic_1.png) 
-   
- 
- 
-   ![Graphic2](Graphic_2.png) 
-   
-   Here I put the two classifiers that I did, its a table that shows different values for each iteration so then we can see which one is 
-   the best value to use. 
-   In this case this is Naive Bayes
-    
-   ![Naive_Bayes](Naive_Bayes.png) 
-   
-   And here is the same comparation but with SMV
-   
-   ![SMV](SMV.png) 
-   
-   Now we can see in this block of code that we choose the best value for each classifier.
-   
-   Naive Bayes
-   
-   ![Best_Naive_Bayes](Best_Naive_Bayes.png) 
-   
-   SMV
-   
-    ![Best_SMV](Best_SMV.png) 
      
 
 

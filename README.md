@@ -8,9 +8,11 @@
 ### Birthplace : Republic Of Korea
 ### Student Number : 18132782
 ### E-mail address : dlworb1994@naver.com
-###
+###   
+
 ### Project's Objecitive 
 ###  -> Collecting twitter feeds and making classifier & Sentiment analysis Specified for CyberSecurity
+
 
 1. ### Introduction
 
@@ -23,6 +25,8 @@ I chose this project because i have wanted to analyze SNS data with Machine-lear
 
 In my project me and my project mates usually use the knowledges provided by the course. For example we use python libraries Pandas and Numpy, making own fuctions etc. Because i studied python and machine-learning hard with Datacamp and Coursera, i can do my project well.
 But i also use the knowledges studied by myself like library tweepy, making twitter developer ID and how to use it and sentiment analyis etc. My project is related with twitter so i have to study a lot for using and dealing with twitter to get tweet data. Also i have to study a lot with sentiment analysis with references and video clips in youtube.
+
+
 
 2. ### Jargon
  
@@ -45,6 +49,8 @@ Frequent & Important words which are used in Cybersecurity's Work.
  * _Sentiment Analysis_.- The process of computationally identifying and categorizing opinions expressed in a piece of text, especially in order to determine whether the writer's attitude towards a particular topic, product, etc. is positive, negative, or neutral.
  
  * _Social media_.- Refers to websites and computer programs that make communication possible with the use of computers or mobile phones.
+
+
 
 3. ### Data Camp assignments
 Here is the proof that i finished all the courses what i had to take during this semester for 
@@ -80,12 +86,14 @@ Here is the courses that i accomplished in Datacamp not only what i had to take 
      * 9.- [Supervised Learning with scikit-learn Course](StatementofAccomplishment(5).pdf)
      
      
+     
  5. ### Coursera
  Here is the proof that i finished Machine-Learning courses on Coursera.
  
   ![Coursera1_Kyu](Coursera1_Kyu.png)
  
   ![Coursera2_Kyu](Coursera2_Kyu.png)
+  
   
       
 6. ### Presentations
@@ -95,6 +103,7 @@ Here is the courses that i accomplished in Datacamp not only what i had to take 
      * 1.- [My first Presentation(Week5)](cybersecurity_week5.pptx)
      
      * 2.- [My Second Presentation(Week11)](cybersecurity_week11.pptx)
+
 
 
 7. ### Python Notebooks
@@ -199,6 +208,7 @@ Additionally i created code that creates a list of the most frequently used hash
    
     ![Best_SMV](Best_SMV.png) 
      
+
 
 9. ### References
 

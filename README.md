@@ -202,7 +202,7 @@ Unfortunately our groups objective was changed in November because of some probl
 We use scrum tools - MicroSoft Office Planner. 
 
 ![scrum](scrum.png)
-![scrum2](scrum2.png)
+![scrum2](scurm2.png)
 
 My group set 1 sprints with a length of 2 weeks. We have 6 Sprints and completed 42 tasks. In my case, i completed 23 tasks.
 

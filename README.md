@@ -171,7 +171,7 @@ In my project, me and my project mates have to make classifiers for distinguish 
    
    These are the examples that we labeled.
    
-   ![example_sentiment](.png) 
+   ![example_sentiment](example_sentiment.png) 
    
    Because there are words like hacker, hacking contained in sentence, we labled 1. And we labeld 0 for below sentences because those are normal sentences or non english sentences.
    

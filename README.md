@@ -10,27 +10,19 @@
 
 1. ### Introduction
 
-Hi! My name is Kyu, I'm from Republic of Korea(South Korea) and i am 24 years old.
+My name is Kyu, I'm from Republic of Korea(South Korea) and i am 24 years old.
 My majors in home university(University Of Seoul) are Big-Data Analysis & Geo-Informatics.
 My dream is to become an international big-data analyst who specializes in spatial data.
 So i decided to take this course - Applied data science at THUAS.
 I'm working on a project - Cyber Security.
 I chose this project because i have wanted to analyze SNS data with Machine-learnig for a long time.
-Actually i also wanted to work on the project - Autonomous shipping.
-Because the project - Autonomous shipping is closley related to my majors(spatial big data). 
-But i do not want to spend almost 10 euros everyday for going to Rotterdam(as im not a Dutch student, i always have to pay for using transportaion).
 
-#In my project we usually use 
-In this project we apply the concepts and use the tools provided by the course. 
-Libraries like Tweepy, Pandas and Numpy are also used. 
-Part of the tasks we have to complete during the course is to finish courses that have been assigned to us on the DataCamp 
-and Coursera platform, in order to learn how to use tools to achieve our goal in our project. 
-Below is a compilation of the work I have done during this course.###
-
+In my project me and my project mates usually use the knowledges provided by the course. For example we use python libraries Pandas and Numpy, making own fuctions etc. Because i studied python and machine-learning hard with Datacamp and Coursera, i can do my project well.
+But i also use the knowledges studied by myself like library tweepy, making twitter developer ID and how to use it and sentiment analyis etc. My project is related with twitter so i have to study a lot for using and dealing with twitter to get tweet data. Also i have to study a lot with sentiment analysis with references and video clips in youtube.
 
 2. ### Jargon
  
-Frequent & Important words which are used in Cybersecurity'S Work.
+Frequent & Important words which are used in Cybersecurity's Work.
 
  * _Anonymous_.- a decentralized international hacktivist group that is widely known for its various DDoS cyber attacks against several governments, government institutions and government agencies, corporations, and the Church of Scientology.
 
@@ -85,14 +77,23 @@ Here is the courses that i accomplished in Datacamp not only what i had to take 
      
      
  5. ### Coursera
- Here is the proof that i finished Machine-Learning courses on Coursera. For me 
+ Here is the proof that i finished Machine-Learning courses on Coursera.
  
   ![Coursera1_Kyu](Coursera1_Kyu.png)
  
   ![Coursera2_Kyu](Coursera2_Kyu.png)
+  
+      
+6. ### Presentations
+    Here are presentations that i did in this semester. My group did weekly presentation with one person.
+    
+    
+     * 1.- [My first Presentation(Week5)](cybersecurity_week5.pptx)
+     
+     * 2.- [My Second Presentation(Week11)](cybersecurity_week11.pptx)
 
 
-6. ### Python Notebooks
+7. ### Python Notebooks
 In this part i made some my own programmes and codes for using our project. It was for counting words like hactivist's keywords in tweets, hashtags which they use and username they advert. 
 
 First, this code which is kind of prototype inspires me to make codes for word counting. I just tried to make basic code first and then want to understand what should i make addtionally.
@@ -149,7 +150,7 @@ Additionally i created code that creates a list of the most frequently used hash
 5.-make code for sentiment analysis
 
  
-7. ### Some visual content
+8. ### Some visual content
    #### All the fragments of code that are bellow in this section, they are in the python codes that are shown above.
    
    Those are also some graphics that I did in our code to see the most frequent words in the Tweets, they are the first ones because still missing to take away the common english words like 'the', 'a', and that words. But here its a good aproach of the handle of the tools for visualating the data.
@@ -193,14 +194,6 @@ Additionally i created code that creates a list of the most frequently used hash
    SMV
    
     ![Best_SMV](Best_SMV.png) 
-    
-8. ### Presentations
-    Here are presentations that i did in this semester. My group did weekly presentation with one person.
-    
-    
-     * 1.- [My first Presentation(Week5)](cybersecurity_week5.pptx)
-     
-     * 2.- [My Second Presentation(Week11)](cybersecurity_week11.pptx)
      
 
 9. ### References

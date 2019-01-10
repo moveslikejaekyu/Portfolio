@@ -8,10 +8,9 @@
  Birthplace : Republic Of Korea </br>
  Student Number : 18132782 </br>
  E-mail address : dlworb1994@naver.com </br>
-###   
 
 ### Project's Objecitive 
-###  -> Collecting twitter feeds and making classifier & Sentiment analysis Specified for CyberSecurity
+     -> Collecting twitter feeds and making classifier & Sentiment analysis Specified for CyberSecurity
 
 
 1. ### Introduction

@@ -26,6 +26,7 @@ I chose this project because i have wanted to analyze SNS data with Machine-lear
 In my project me and my project mates usually use the knowledges provided by the course. For example we use python libraries Pandas and Numpy, making own fuctions etc. Because i studied python and machine-learning hard with Datacamp and Coursera, i can do my project well.
 But i also use the knowledges studied by myself like library tweepy, making twitter developer ID and how to use it and sentiment analyis etc. My project is related with twitter so i have to study a lot for using and dealing with twitter to get tweet data. Also i have to study a lot with sentiment analysis with references and video clips in youtube.
 
+</br>
 
 2. ### Jargon
  
@@ -49,7 +50,7 @@ Frequent & Important words which are used in Cybersecurity's Work.
  
  * _Social media_.- Refers to websites and computer programs that make communication possible with the use of computers or mobile phones.
 
-
+</br>
 
 3. ### Data Camp assignments
 Here is the proof that i finished all the courses what i had to take during this semester for 
@@ -61,7 +62,7 @@ preparing ourselfs & project. Also it was for studying developing of the Python 
 
 ![Datacamp_Kyu3](Datacamp3_Kyu.png)
                 
-
+</br>
 
 4. ### All Data Camp Courses
 Here is the courses that i accomplished in Datacamp not only what i had to take but also what i studied additionally.
@@ -84,7 +85,7 @@ Here is the courses that i accomplished in Datacamp not only what i had to take 
      
      * 9.- [Supervised Learning with scikit-learn Course](StatementofAccomplishment(5).pdf)
      
-     
+ </br>    
      
  5. ### Coursera
  Here is the proof that i finished Machine-Learning courses on Coursera.
@@ -93,7 +94,7 @@ Here is the courses that i accomplished in Datacamp not only what i had to take 
  
   ![Coursera2_Kyu](Coursera2_Kyu.png)
   
-  
+</br>  
       
 6. ### Presentations
     Here are presentations that i did in this semester. My group did weekly presentation with one person.
@@ -103,107 +104,130 @@ Here is the courses that i accomplished in Datacamp not only what i had to take 
      
      * 2.- [My Second Presentation(Week11)](cybersecurity_week11.pptx)
 
-
+</br>
 
 7. ### Python Notebooks
 In this part i made some my own programmes and codes for using our project. It was for counting words like hactivist's keywords in tweets, hashtags which they use and username they advert. 
 
 
    ![inspiration](inspiration.png) 
-   
+
+</br>
 First, this code which is kind of prototype inspires me to make codes for word counting. I just tried to make basic code first and then want to understand what should i make addtionally.
 
-
+</br>
 Before counting words, i have to extract pure sentences from twitter data. 
 In this step, i made code for extracting tweets from twitter with using userID list(hacktivists, excel format) and my twitter developer ID for accessing twitter. I access twitter with developer ID and extract user's tweets who are written in my userID list. Also i extract number of retweets and likes, date of tweet and length of tweet. They are supposed to be used later, but finally we didnt use that datas. 
 
+</br>
    ![basicsetforcode](basicsetforcode.png)
-   
+ 
+ </br>
    This is the basic settings for using code.
    
+   </br>
    ![extractexcel](extractexcel.png)  
    
+   </br>
    This is the code for extracting tweets from twitter with using userID list(hacktivists, excel format). I have 70 hactivist's tweeter ID. It was offered by our supervisor.
    
+   </br>
    ![authenticationfunction](authenticationfunction.png) 
    ![tweetmining](tweetmining.png) 
    
+   </br>
    In this part, i made code for mining tweets from twitter. I did it with my project mate Jorge.
    
+   </br>
    ![result_tweets](result_tweets.png) 
+</br>
+
    And it is the result of tweets. There are tweets, name of user, length of sentence, ID, date of tweet, source, number of likes and retweets. I supposed to use all these things to approaching our project's goal in that time, but finally i only used tweets.
    
-
+</br>
 Next step, i have to refine extracted tweets. Because if i use word counting code with not refined tweets, the result will be full with words like 'a','the','is' kind of these words that we usually use in normal sentence(not hactivst's sentence). This result will hinder our goal to extract hacktivist's word. So i made 'removig punctuation' code for refining kind of these words. 
+</br>
 
    ![removingpunctuation](removingpunctuation.png) 
+   </br>
    
    In this code, stopwords.words('english') means words like 'a','the','is' etc, stopwords.words('spanish') means words like 'a','the','is' etc with spanish. And single_words is a my own list of words not contained in stopwords but should be erased from extracted tweets. I just made it because i worried that i can miss some words except stopwords. After running counter code, i add some words to single_words if i notice unimportant words in the result of counter.
    
-   
+   </br>
 After using removing punctuation code, i can get tweet sentences consist of words which are excluded unimportant words for getting hacktivist's words. 
+</br>
 
    ![result_removing](result_removing.png)
+   </br>
    
 Finally i created code that creates a list of the most frequently used words with pandas series. This result is very important in my project because i use this words and numbers again until end of the project to figure out graphs, compare numbers of one word between users etc. It is no exaggeration to say that creating this code accounts for half of the project.
+  </br>
   
    ![counter](counter.png) 
+   </br>
    
 Additionally i created code that creates a list of the most frequently used hashtags which they use and usernmae they advert. Because of using removing punctuation, i can't figure out numbers of hashtags and usernames. Because the punction elimates special characters like @,#,$,& etc. So i have to add new sentences from counter code and change some sentences.
+</br>
 
    ![hashtag](hashtag.png) 
    ![username](username.png)  
 
-
+</br>
    
-1.-Counting keyword, hashtags and usernames ok
-2.-Remove unnecessary words in tweets ok
-3.-divide whole tweets data with sentences ok
-
-4.-review and label tweets with our hand
-5.-make code for sentiment analysis
-
  
 8. ### Other works 
   
 In my project, me and my project mates have to make classifiers for distinguish whether user is hactivist or not. First of this step, we have to make our own hand-written sentiment classifer with 16000 tweet sentences. Because we can't get precise hactivist words dictionary so we have to make our own hactivist words dictionary with standards for our project. We labeled all tweet sentences whether it is a hactivist's sentence or not. If it is a hactivist's sentence or contained keywords from our counter code, we labeled 1. If it is a normal sentence or not english sentence, we labeled 0.
-
+</br>
+   
    ![criteria_sentiment](criteria_sentiment.png) 
+   </br>
    
    These are the examples that we labeled.
+   </br>
    
    ![example_sentiment](example_sentiment.png) 
+   </br>
    
    Because there are words like hacker, hacking contained in sentence, we labled 1. And we labeld 0 for below sentences because those are normal sentences or non english sentences.
+   </br>
    
    ![sentiment](sentiment.png) 
+   </br>
    
    This is just few part of our sentiment classifier. I labeled 2000 tweets from 11 users.
    Finally we completed labeling all the tweets, and use this sentiment classifier to next step.
+    </br>
+    
+   [cleaned_dataset](cleaned_dataset.pdf)
+   This is an our final sentiment classifier.
    
    
+   </br>
 
 9. ### Partcodes before changing objective
      
 Unfortunately our groups objective was changed in November because of some problems to get knoledges and supervisor's comment. So there are not much code that we used for this group. But there are many codes that we used before changing our objecitives so i just put this codes at the end of my portfolio for proving that i did hard work on my project.
 
-   * 1.- [part1](part1.png)</br>
+   *     [part1](part1.png)</br>
          [part2](part2.png)</br>
          [part3](part3.png)</br>
          [part4](part4.png)</br>
          [part5](part5.png)</br>
          [part6](part6.png)</br>
+   </br>
    
    This code was supposed to use for sentiment analysis in tweets to analyze how much it is positive or negative, predicting hactivist will attack or do something and profiling several hactivist's personality.
 
-
+</br>
 
 10. ### Scrum
-We use scrum tools - MicroSoft Office Planner. 
+We use scrum tools - Microsoft Office Planner. 
 
 ![scrum](scrum.png)
 ![scrum2](scurm2.png)
-
+</br>
+   
 My group set 1 sprints with a length of 2 weeks. We have 6 Sprints and completed 42 tasks. In my case, i completed 23 tasks.
 
 
@@ -243,7 +267,8 @@ My group set 1 sprints with a length of 2 weeks. We have 6 Sprints and completed
         * Revise research report
         * Group meeting
 
-
+</br>
+   
 11. ### References
 
     * 1.- Eung Yong Park. (2011). Jump to Python, Easypublishing

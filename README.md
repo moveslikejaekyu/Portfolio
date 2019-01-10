@@ -261,7 +261,7 @@ My group set 1 sprints with a length of 2 weeks. We have 6 Sprints and completed
     
    * 5.- [Sprint 5 : Analyse data](sprint5.png)</br>
         * Group meeting
-        * Hand labeling - [Labled data](/document/CLEANED_DATASET_1.pdf)
+        * Hand labeling
         * Presentation 11
     
    * 6.- [Sprint 6 : Data visualization](sprint6.png)</br>

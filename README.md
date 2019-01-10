@@ -185,7 +185,12 @@ In my project, me and my project mates have to make classifiers for distinguish 
      
 Unfortunately our groups objective was changed in November because of some problems to get knoledges and supervisor's comment. So there are not much code that we used for this group. But there are many codes that we used before changing our objecitives so i just put this codes at the end of my portfolio for proving that i did hard work on my project.
 
-
+   * 1.- [a](a.pdf)
+   
+   * 2.- [a](a.pdf)
+     
+   * 3.- [a](a.pdf)
+     
 
 10. ### References
 

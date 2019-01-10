@@ -185,12 +185,12 @@ In my project, me and my project mates have to make classifiers for distinguish 
      
 Unfortunately our groups objective was changed in November because of some problems to get knoledges and supervisor's comment. So there are not much code that we used for this group. But there are many codes that we used before changing our objecitives so i just put this codes at the end of my portfolio for proving that i did hard work on my project.
 
-   * 1.- [part1](part1.pdf)
-         [part2](part2.pdf)
-         [part3](part3.pdf)
-         [part4](part4.pdf)
-         [part5](part5.pdf)
-         [part6](part6.pdf)
+   * 1.- [part1](part1.png)
+         [part2](part2.png)
+         [part3](part3.png)
+         [part4](part4.png)
+         [part5](part5.png)
+         [part6](part6.png)
    
    This code was supposed to use for sentiment analysis in tweets to analyze how much it is positive or negative, predicting hactivist will attack or do something and profiling several hactivist's personality.
 

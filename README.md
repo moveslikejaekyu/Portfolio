@@ -108,10 +108,12 @@ Here is the courses that i accomplished in Datacamp not only what i had to take 
 7. ### Python Notebooks
 In this part i made some my own programmes and codes for using our project. It was for counting words like hactivist's keywords in tweets, hashtags which they use and username they advert. 
 
-First, this code which is kind of prototype inspires me to make codes for word counting. I just tried to make basic code first and then want to understand what should i make addtionally.
 
    ![inspiration](inspiration.png) 
    
+First, this code which is kind of prototype inspires me to make codes for word counting. I just tried to make basic code first and then want to understand what should i make addtionally.
+
+
 Before counting words, i have to extract pure sentences from twitter data. 
 In this step, i made code for extracting tweets from twitter with using userID list(hacktivists, excel format) and my twitter developer ID for accessing twitter. I access twitter with developer ID and extract user's tweets who are written in my userID list. Also i extract number of retweets and likes, date of tweet and length of tweet. They are supposed to be used later, but finally we didnt use that datas. 
 

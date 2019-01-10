@@ -118,28 +118,29 @@ First, this code which is kind of prototype inspires me to make codes for word c
 </br>
 Before counting words, i have to extract pure sentences from twitter data. 
 In this step, i made code for extracting tweets from twitter with using userID list(hacktivists, excel format) and my twitter developer ID for accessing twitter. I access twitter with developer ID and extract user's tweets who are written in my userID list. Also i extract number of retweets and likes, date of tweet and length of tweet. They are supposed to be used later, but finally we didnt use that datas. 
-
 </br>
+
    ![basicsetforcode](basicsetforcode.png)
  
  </br>
-   This is the basic settings for using code.
-   
+   This is the basic settings for using code.  
    </br>
+   
    ![extractexcel](extractexcel.png)  
    
    </br>
    This is the code for extracting tweets from twitter with using userID list(hacktivists, excel format). I have 70 hactivist's tweeter ID. It was offered by our supervisor.
-   
    </br>
+   
    ![authenticationfunction](authenticationfunction.png) 
    ![tweetmining](tweetmining.png) 
    
    </br>
    In this part, i made code for mining tweets from twitter. I did it with my project mate Jorge.
-   
-   </br>
+  </br>
+  
    ![result_tweets](result_tweets.png) 
+   
 </br>
 
    And it is the result of tweets. There are tweets, name of user, length of sentence, ID, date of tweet, source, number of likes and retweets. I supposed to use all these things to approaching our project's goal in that time, but finally i only used tweets.
@@ -149,8 +150,8 @@ Next step, i have to refine extracted tweets. Because if i use word counting cod
 </br>
 
    ![removingpunctuation](removingpunctuation.png) 
-   </br>
    
+   </br>
    In this code, stopwords.words('english') means words like 'a','the','is' etc, stopwords.words('spanish') means words like 'a','the','is' etc with spanish. And single_words is a my own list of words not contained in stopwords but should be erased from extracted tweets. I just made it because i worried that i can miss some words except stopwords. After running counter code, i add some words to single_words if i notice unimportant words in the result of counter.
    
    </br>
@@ -158,14 +159,14 @@ After using removing punctuation code, i can get tweet sentences consist of word
 </br>
 
    ![result_removing](result_removing.png)
-   </br>
-   
+ 
+ </br>
 Finally i created code that creates a list of the most frequently used words with pandas series. This result is very important in my project because i use this words and numbers again until end of the project to figure out graphs, compare numbers of one word between users etc. It is no exaggeration to say that creating this code accounts for half of the project.
   </br>
   
    ![counter](counter.png) 
-   </br>
    
+   </br>
 Additionally i created code that creates a list of the most frequently used hashtags which they use and usernmae they advert. Because of using removing punctuation, i can't figure out numbers of hashtags and usernames. Because the punction elimates special characters like @,#,$,& etc. So i have to add new sentences from counter code and change some sentences.
 </br>
 
@@ -199,7 +200,7 @@ In my project, me and my project mates have to make classifiers for distinguish 
    Finally we completed labeling all the tweets, and use this sentiment classifier to next step.
     </br>
     
-   [cleaned_dataset](cleaned_dataset.pdf)
+   ### [Cleaned_Dataset](cleaned_dataset.pdf)  </br>
    This is an our final sentiment classifier.
    
    

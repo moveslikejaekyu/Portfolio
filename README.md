@@ -27,7 +27,6 @@ In my project me and my project mates usually use the knowledges provided by the
 But i also use the knowledges studied by myself like library tweepy, making twitter developer ID and how to use it and sentiment analyis etc. My project is related with twitter so i have to study a lot for using and dealing with twitter to get tweet data. Also i have to study a lot with sentiment analysis with references and video clips in youtube.
 
 
-
 2. ### Jargon
  
 Frequent & Important words which are used in Cybersecurity's Work.
@@ -181,10 +180,14 @@ In my project, me and my project mates have to make classifiers for distinguish 
    Finally we completed labeling all the tweets, and use this sentiment classifier to next step.
    
    
+
+9. ### Partcodes before changing objective
      
+Unfortunately our groups objective was changed in November because of some problems to get knoledges and supervisor's comment. So there are not much code that we used for this group. But there are many codes that we used before changing our objecitives so i just put this codes at the end of my portfolio for proving that i did hard work on my project.
 
 
-9. ### References
+
+10. ### References
 
     * 1.- Eung Yong Park. (2011). Jump to Python, Easypublishing
     

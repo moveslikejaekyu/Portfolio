@@ -187,17 +187,64 @@ In my project, me and my project mates have to make classifiers for distinguish 
      
 Unfortunately our groups objective was changed in November because of some problems to get knoledges and supervisor's comment. So there are not much code that we used for this group. But there are many codes that we used before changing our objecitives so i just put this codes at the end of my portfolio for proving that i did hard work on my project.
 
-   * 1.- [part1](part1.png)
-         [part2](part2.png)
-         [part3](part3.png)
-         [part4](part4.png)
-         [part5](part5.png)
-         [part6](part6.png)
+   * 1.- [part1](part1.png)</br>
+         [part2](part2.png)</br>
+         [part3](part3.png)</br>
+         [part4](part4.png)</br>
+         [part5](part5.png)</br>
+         [part6](part6.png)</br>
    
    This code was supposed to use for sentiment analysis in tweets to analyze how much it is positive or negative, predicting hactivist will attack or do something and profiling several hactivist's personality.
 
 
-10. ### References
+
+10. ### Scrum
+We use scrum tools - MicroSoft Office Planner. 
+
+![scrum](scrum.png)
+![scrum2](scrum2.png)
+
+My group set 1 sprints with a length of 2 weeks. We have 6 Sprints and completed 42 tasks. In my case, i completed 23 tasks.
+
+
+   * 1.- [Sprint 1 : Preliminary](sprint1.png)
+        * Group meeting
+        * Individual assignment
+        * Introduction
+        * Group meeting
+        * Primary Research - Brain Storming
+       
+   * 2.- [Sprint 2 : Collect data](sprint2.png)
+        * Python - make sentiment anlaysis code
+        * Revise research plan 
+        * Preparation for starting computer work
+        * Group meeting
+        * Individual assignment - Datacamp
+    
+   * 3.- [Sprint 3 : Analyse data](sprint3.png)</br>
+        * Word analysis - make word count function
+        * Presentation 5
+        * Group meeting
+        * Test code
+        * Programming objective 
+        * Datacamp
+    
+   * 4.- [Sprint 4 : Machine-learning/Collect data](sprint4.png)</br>
+        * Group meeting
+        * Make Logistic Regression
+        * Cleaning the data
+    
+   * 5.- [Sprint 5 : Analyse data](sprint5.png)</br>
+        * Group meeting
+        * Hand labeling - [Labled data](/document/CLEANED_DATASET_1.pdf)
+        * Presentation 11
+    
+   * 6.- [Sprint 6 : Data visualization](sprint6.png)</br>
+        * Revise research report
+        * Group meeting
+
+
+11. ### References
 
     * 1.- Eung Yong Park. (2011). Jump to Python, Easypublishing
     

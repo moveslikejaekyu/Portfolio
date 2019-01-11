@@ -119,7 +119,7 @@ First, this code which is kind of prototype inspires me to make codes for word c
 
 </br>
 Before counting words, i have to extract pure sentences from twitter data. 
-In this step, i made code for extracting tweets from twitter with using userID list(hacktivists, excel format) and my twitter developer ID for accessing twitter. I access twitter with developer ID and extract user's tweets who are written in my userID list. Also i extract number of retweets and likes, date of tweet and length of tweet. They are supposed to be used later, but finally we didnt use that datas.</br> 
+In this step, i made code for extracting tweets from twitter with using userID list(hacktivists, excel format) and my twitter developer ID for accessing twitter. I access twitter with developer ID and extract user's tweets who are written in my userID list. Also i extract number of retweets and likes, date of tweet and length of tweet.</br> 
 
 
    ![basicsetforcode](basicsetforcode.png)
@@ -144,7 +144,7 @@ In this step, i made code for extracting tweets from twitter with using userID l
    
 </br>
 
-   And it is the result of tweets. There are tweets, name of user, length of sentence, ID, date of tweet, source, number of likes and retweets. I supposed to use all these things to approaching our project's goal in that time, but finally i only used tweets.
+   And it is the result of tweets. There are tweets, name of user, length of sentence, ID, date of tweet, source, number of likes and retweets.
    
 </br>
 Next step, i have to refine extracted tweets. Because if i use word counting code with not refined tweets, the result will be full with words like 'a','the','is' kind of these words that we usually use in normal sentence(not hactivst's sentence). This result will hinder our goal to extract hacktivist's word. So i made 'removig punctuation' code for refining kind of these words. </br>

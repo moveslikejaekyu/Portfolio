@@ -13,7 +13,7 @@
      -> Collecting twitter feeds and making classifier & Sentiment analysis Specified for CyberSecurity
 
 
-1. ### Introduction
+### 1. Introduction
 
 My name is Kyu, I'm from Republic of Korea(South Korea) and i am 24 years old.
 My majors in home university(University Of Seoul) are Big-Data Analysis & Geo-Informatics.
@@ -30,7 +30,7 @@ Reading our Research Paper will help understand how our project is going on.
 
 </br>
 
-2. ### Jargon
+### 2. Jargon
  
 Frequent & Important words which are used in Cybersecurity's Work.
 
@@ -54,7 +54,7 @@ Frequent & Important words which are used in Cybersecurity's Work.
 
 </br>
 
-3. ### Data Camp assignments
+### 3. Data Camp assignments
 Here is the proof that i finished all the courses what i had to take during this semester for 
 preparing ourselfs & project. Also it was for studying developing of the Python and Machine Learning tasks.
 
@@ -66,7 +66,7 @@ preparing ourselfs & project. Also it was for studying developing of the Python 
                 
 </br>
 
-4. ### All Data Camp Courses
+### 4. All Data Camp Courses
 Here is the courses that i accomplished in Datacamp not only what i had to take but also what i studied additionally.
     
    * 1.- [Introduction to Python Course](StatementofAccomplishment(9).pdf)
@@ -89,7 +89,7 @@ Here is the courses that i accomplished in Datacamp not only what i had to take 
      
  </br>    
      
- 5. ### Coursera
+ ### 5. Coursera
  Here is the proof that i finished Machine-Learning courses on Coursera.
  
   ![Coursera1_Kyu](Coursera1_Kyu.png)
@@ -98,17 +98,17 @@ Here is the courses that i accomplished in Datacamp not only what i had to take 
   
 </br>  
       
-6. ### Presentations
+### 6. Presentations
     Here are presentations that i did in this semester. My group did weekly presentation with one person.
     
     
-     * 1.- [My first Presentation(Week5)](cybersecurity_week5.pdf)
+   * 1.- [My first Presentation(Week5)](cybersecurity_week5.pdf)
      
-     * 2.- [My Second Presentation(Week11)](cybersecurity_week11.pdf)
+   * 2.- [My Second Presentation(Week11)](cybersecurity_week11.pdf)
 
 </br>
 
-7. ### Python Notebooks
+### 7. Python Notebooks
 In this part i made some my own programmes and codes for using our project. It was for counting words like hactivist's keywords in tweets, hashtags which they use and username they advert. 
 
 
@@ -177,7 +177,7 @@ Additionally i created code that creates a list of the most frequently used hash
 </br>
    
  
-8. ### Other works 
+### 8. Other works 
   
 In my project, me and my project mates have to make classifiers for distinguish whether user is hactivist or not. First of this step, we have to make our own hand-written sentiment classifer with 16000 tweet sentences. Because we can't get precise hactivist words dictionary so we have to make our own hactivist words dictionary with standards for our project. We labeled all tweet sentences whether it is a hactivist's sentence or not. If it is a hactivist's sentence or contained keywords from our counter code, we labeled 1. If it is a normal sentence or not english sentence, we labeled 0.</br>
 </br>
@@ -207,7 +207,7 @@ In my project, me and my project mates have to make classifiers for distinguish 
    
    </br>
 
-9. ### Partcodes before changing objective
+### 9. Partcodes before changing objective
      
 Unfortunately our groups objective was changed in November because of some problems to get knoledges and supervisor's comment. So there are not much code that we used for this group. But there are many codes that we used before changing our objecitives so i just put this codes at the end of my portfolio for proving that i did hard work on my project.
 
@@ -224,7 +224,7 @@ Unfortunately our groups objective was changed in November because of some probl
 
 </br>
 
-10. ### Scrum
+### 10. Scrum
 We use scrum tools - Microsoft Office Planner. 
 
 ![scrum](scrum.png)
@@ -272,7 +272,7 @@ My group set 1 sprints with a length of 2 weeks. We have 6 Sprints and completed
 
 </br>
    
-11. ### References
+### 11. References
 
     * 1.- Eung Yong Park. (2011). Jump to Python, Easypublishing
     

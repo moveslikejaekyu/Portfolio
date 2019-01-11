@@ -71,21 +71,21 @@ Here is the courses that i accomplished in Datacamp not only what i had to take 
     
    * 1.- [Introduction to Python Course](StatementofAccomplishment(9).pdf)
  
-     * 2.- [Intermediate Python for Data Science Course](StatementofAccomplishment.pdf)
+   * 2.- [Intermediate Python for Data Science Course](StatementofAccomplishment.pdf)
      
-     * 3.- [Introduction to Data Visualization With Python Course](StatementofAccomplishment(8).pdf)
+   * 3.- [Introduction to Data Visualization With Python Course](StatementofAccomplishment(8).pdf)
      
-     * 4.- [pandas Foundations Course](StatementofAccomplishment(6).pdf)
+   * 4.- [pandas Foundations Course](StatementofAccomplishment(6).pdf)
      
-     * 5.- [Python Data Science Toolbox (Part 2)](StatementofAccomplishment(2).pdf)
+   * 5.- [Python Data Science Toolbox (Part 2)](StatementofAccomplishment(2).pdf)
      
-     * 6.- [Importing data in Python (Part 1)](StatementofAccomplishment(7).pdf)
+   * 6.- [Importing data in Python (Part 1)](StatementofAccomplishment(7).pdf)
      
-     * 7.- [Cleaning Data in Python Course](StatementofAccomplishment(3).pdf)
+   * 7.- [Cleaning Data in Python Course](StatementofAccomplishment(3).pdf)
      
-     * 8.- [Statistical Thinking in Python (Part 1)](StatementofAccomplishment(4).pdf)
+   * 8.- [Statistical Thinking in Python (Part 1)](StatementofAccomplishment(4).pdf)
      
-     * 9.- [Supervised Learning with scikit-learn Course](StatementofAccomplishment(5).pdf)
+   * 9.- [Supervised Learning with scikit-learn Course](StatementofAccomplishment(5).pdf)
      
  </br>    
      

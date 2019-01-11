@@ -25,8 +25,8 @@ I chose this project because i have wanted to analyze SNS data with Machine-lear
 In my project me and my project mates usually use the knowledges provided by the course. For example we use python libraries Pandas and Numpy, making own fuctions etc. Because i studied python and machine-learning hard with Datacamp and Coursera, i can do my project well.
 But i also use the knowledges studied by myself like library tweepy, making twitter developer ID and how to use it and sentiment analyis etc. My project is related with twitter so i have to study a lot for using and dealing with twitter to get tweet data. Also i have to study a lot with sentiment analysis with references and video clips in youtube.
 
-Reading our Research Paper will help understand how our project is going on.
-### [Research Paper](research_paper.pdf) </br>
+Reading our Research Report will help understand how our project is going on.
+### [Research Report](Research_Report.pdf) </br>
 
 </br>
 
@@ -36,9 +36,9 @@ Frequent & Important words which are used in Cybersecurity's Work.
 
  * _Anonymous_.- a decentralized international hacktivist group that is widely known for its various DDoS cyber attacks against several governments, government institutions and government agencies, corporations, and the Church of Scientology.
 
- * _API_.- Abbreviation for application programming interface: a way ofcommunicating with a particular computer program or internet service.
+ * _API_.- Abbreviation for application programming interface : a way ofcommunicating with a particular computer program or internet service.
  
- * _Classifier_. - The Code which is classifying things with standards
+ * _Classifier_. - Category of Unified Modeling Language (UML) elements that have some common features, such as attributes or methods
 
  * _Cyberattack_.- An attempt by hackers to damage or destroy a computer network or system.
  
@@ -278,7 +278,7 @@ My group set 1 sprints with a length of 2 weeks. We have 6 Sprints and completed
     
     * 2.- Wes Mckinny. (2013). Python for data analysis. O'Reilly
     
-    * 3.- Raúl E. López Briega. (2017). Procesamiento de Lenguaje Natural con Python. 25/10/2018, de Blog Sitio web: https://relopezbriega.github.io/blog/2017/09/23/procesamiento-del-lenguaje-natural-con-python/ 
+    * 3.- Harrington, P. (2012). Machine learning in action. Shelter Island: Manning.
     
     * 4.- tthustla. (2018). Another Twitter Sentiment Analysis with Python - Part 1. 26/10/2018, de GitHub Sitio web: https://github.com/tthustla/twitter_sentiment_analysis_part1/blob/master/Capstone_part2.ipynb
     

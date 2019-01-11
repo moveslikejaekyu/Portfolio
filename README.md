@@ -274,17 +274,17 @@ My group set 1 sprints with a length of 2 weeks. We have 6 Sprints and completed
    
 ### 11. References
 
-    * 1.- Eung Yong Park. (2011). Jump to Python, Easypublishing
+   * 1.- Eung Yong Park. (2011). Jump to Python, Easypublishing
     
-    * 2.- Wes Mckinny. (2013). Python for data analysis. O'Reilly
+   * 2.- Wes Mckinny. (2013). Python for data analysis. O'Reilly
     
-    * 3.- Harrington, P. (2012). Machine learning in action. Shelter Island: Manning.
+   * 3.- Harrington, P. (2012). Machine learning in action. Shelter Island: Manning.
     
-    * 4.- tthustla. (2018). Another Twitter Sentiment Analysis with Python - Part 1. 26/10/2018, de GitHub Sitio web: https://github.com/tthustla/twitter_sentiment_analysis_part1/blob/master/Capstone_part2.ipynb
+   * 4.- tthustla. (2018). Another Twitter Sentiment Analysis with Python - Part 1. 26/10/2018, de GitHub Sitio web: https://github.com/tthustla/twitter_sentiment_analysis_part1/blob/master/Capstone_part2.ipynb
     
-    * 5.- Alec Go, Richa Bhayani y Lei Huang (2009). Twitter Sentiment Classification using Distant Supervision,*academia.edu.9*,1-6.
+   * 5.- Alec Go, Richa Bhayani y Lei Huang (2009). Twitter Sentiment Classification using Distant Supervision,*academia.edu.9*,1-6.
     
-    * 6.- Cambridge University Press. (2018). Cambridge Dictionary. 09/11/2018, de Cambridge University Press Sitio web: https://dictionary.cambridge.org/dictionary/english/
+   * 6.- Cambridge University Press. (2018). Cambridge Dictionary. 09/11/2018, de Cambridge University Press Sitio web: https://dictionary.cambridge.org/dictionary/english/
     
 
 

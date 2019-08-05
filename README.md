@@ -14,7 +14,7 @@
 
 
 ### 1. Introduction
-
+    Collecting twitter feeds and making classifier & Sentiment analysis Specified for CyberSecurity
 My name is Kyu, I'm from Republic of Korea(South Korea) and i am 24 years old.
 My majors in home university(University Of Seoul) are Big-Data Analysis & Geo-Informatics.
 My dream is to become an international big-data analyst who specializes in spatial data.
